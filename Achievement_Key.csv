@@ -1,6 +1,6 @@
 AchievementCode,AchievementName,AchievementDescription,AchievementImage
 ACH_FIRST_RUNE,My First Runestone!,Unlock your first Runestone.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/4b344a49df5cfab08ff4ae70b0a8dc2ee6cb3cf6.jpg
-ACH_BEASTS_OF_BURDEN,Beasts of Burden,Collect 8 Objects in one game.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/dde221929a34ce60ec8e1db0d8a9521931507183.jpg
+ACH_BEAST_OF_BURDEN,Beasts of Burden,Collect 8 Objects in one game.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/dde221929a34ce60ec8e1db0d8a9521931507183.jpg
 ACH_DICE_WITH_DEATH,Best of Two out of Three,Win a Dice With Death encounter.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/665347d88cdb270d4e1d640227461a39e36fb8cf.jpg
 ACH_ROW_YOUR_BOAT,Row Your Boat,Use a Raft to cross the river.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/7d5eaef2d822001d21fc1d6a2773853b55da086d.jpg
 ACH_ASSASSINATION,Assassination,"As the Assassin, assassinate any creature or character.",https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/61ae2985bd9d123a001b3e49b27d0727278e4616.jpg
@@ -60,7 +60,7 @@ ACH_FLANDS_NOBLE_IFRIT,Boss Noble,Defeat one of the Noble Ifrits.,https://steamc
 ACH_FM_GIVE_GOLD,This is For You,Give another character some of your Gold.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/764cac5927789256b6f24d7369b5275c950dcc03.jpg
 ACH_FM_ICE_QUEEN,Stay Frosty,Win a game by defeating the Ice Queen.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/5618c8777cfee9899434c036f143b3cb5297c275.jpg
 ACH_REAP_LORD_OF_THE_PIT,A Perilous Journey,Move to the Plain of Peril after defeating the Lord of the Pit.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/e7b1762d4a08321db6fc37a22b7e8ed58c67c8f6.jpg
-ACH_SPIRITS_DESTROYER,Spirit Destroyer,Earn the Spirit Destroyer reward 20 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/32c61c291d31830dd184a2d15d1525a04ed7b1ad.jpg
+ACH_SPIRIT_DESTROYER,Spirit Destroyer,Earn the Spirit Destroyer reward 20 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/32c61c291d31830dd184a2d15d1525a04ed7b1ad.jpg
 ACH_MOST_INTELLIGENT,Most Intelligent,Earn the Most Intelligent reward 20 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/9bfcbafe993d7c98ed89d389c6eabfdb2c4fc536.jpg
 ACH_REAP_CULTIST,A Tale of Good and Evil (where Evil wins for a change),"As the Dark Cultist, take a life from a character of Good Alignment.",https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/7349be1f439cc896b5015132cb404db99101a93e.jpg
 ACH_PACK_NINJA,Hidden Fortress,"As the Ninja, defeat an Enemy on the City space.",https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/247000/b38bc64d68e42e76d660d7141ce2d60559731594.jpg
