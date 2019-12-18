@@ -1,0 +1,250 @@
+﻿AchievementCode,AchievementName,AchievementDescription
+ACH_FIRST_RUNE,My First Runestone!,Unlock your first Runestone.
+ACH_BEASTS_OF_BURDEN,Beasts of Burden,Collect 8 Objects in one game.
+ACH_DICE_WITH_DEATH,Best of Two out of Three,Win a Dice With Death encounter.
+ACH_ROW_YOUR_BOAT,Row Your Boat,Use a Raft to cross the river.
+ACH_ASSASSINATION,Assassination,"As the Assassin, assassinate any creature or character."
+ACH_PROPHESY,Prophesy,"As the Prophetess, replace any Adventure Card."
+ACH_ST_GEORGE,St. George,Kill a Dragon using the Holy Lance.
+ACH_DUAL_WIELDER,Dual Wielder,"As the Warrior, kill an enemy with two weapons."
+ACH_FIRST_GOLD_RUNE,They Come in Gold?!,Unlock your first Gold Runestone.
+ACH_UNDECIDED,Undecided,"As the Druid, change your alignment."
+ACH_REAP_REAPER_SIX,Reap What You Sow,Roll a 6 when confronted by the Reaper.
+ACH_HLAND_EYRIE,Climb to the Top,Make your way to the Eyrie and defeat the Eagle King.
+ACH_DENIED,Denied!,Get yourself killed whilst someone is on the Crown of Command.
+ACH_ROYAL_ENTOURAGE,Royal Entourage,Have the Prince and Princess as followers at the same time.
+ACH_TEMPLE_ESCAPE,Escape Artist,Escape from the Temple on the first try.
+ACH_ALL_RUNES,The Warlock Would Be Proud,Unlock all Runestones.
+ACH_THIEF,Thief,"As the Thief, steal an Object from the Village."
+ACH_FM_TIME_STEAL,Getting Ahead,Steal another player's turn.
+ACH_TOUGH,Tough,"As the Troll, heal yourself after rolling a 6 to move."
+ACH_CHALLENGER_APPEARED,A Challenger Has Appeared,Kill a player already on the Crown of Command.
+ACH_POWERFUL,Powerful,"As the Wizard, raise your total Craft to 10."
+ACH_WINNER,Winner!,Earn the Winner! reward 5 times.
+ACH_GRACEFUL,Graceful,"As the Elf, move between two Woods spaces."
+ACH_IMMORTAL,Immortal,Win a game without losing a life.
+ACH_FM_TREASURE,What's in the Box?,Eliminate all other characters with Pandora's Box and win the game.
+ACH_CHARMING,Charming,"As the Minstrel, charm any Animal."
+ACH_DUNG_BATTLE_HULK,I'm Not Fighting That!,Evade the Battle Hulk.
+ACH_UNBELIEVER,Unbeliever,Win a game without using fate.
+ACH_PVP_MASTER,PvP Master,Earn the PvP Master reward 5 times.
+ACH_UNDEAD,Undead,"As the Ghoul, raise an Enemy as a Follower."
+ACH_PEACEFUL,Peaceful,"As the Monk, increase your Pray score."
+ACH_BATTLE_TOAD,Battle Toad,Win a Battle as a Toad.
+ACH_CITY_PRISON_BREAK,Prison Break,Escape from Jail.
+ACH_HLAND_MAGPIE,Sharp Eyed Friend,Use the Magpie to find an Object quicker than usual.
+ACH_TROPHY_MASTER,Trophy Master,Earn the Trophy Master reward 10 times.
+ACH_HOME,Home,"As the Dwarf, travel to the Mines."
+ACH_DUNG_LORD_OF_DARKNESS,Beyond the Looking Glass,Have the Lord of Darkness teleport you straight to the Crown of Command.
+ACH_LEVEL_TEN,Learning the Ropes,Reach level 10.
+ACH_DUNG_SWASHBUCKLER,Stand and Deliver,"As the Swashbuckler, defeat a creature in order to take another turn."
+ACH_FM_TRICKSTER,A Helping Sleight of Hand,Defeat the Trickster and have him steal an Object for you.
+ACH_MIDAS_TOUCH,The Midas Touch,Alchemise 8 objects in one game.
+ACH_HLAND_BOULDER,"Hey, Watch Out!",'Accidentally' cause the Tumbling Boulder to land on another character.
+ACH_PERSUASIVE,Persuasive,"As the Sorceress, beguile another character."
+ACH_WLAND_BOUND_FOR_GLORY,Bound for Glory,"In one game be Lightbound, Darkbound, Unbound and Fateless."
+ACH_PIED_PIPER,Pied Piper,Earn the Pied Piper reward 10 times.
+ACH_DUNG_AMAZON,I Meant to Do That,"As the Amazon, redo a battle you would have lost and go on to win."
+ACH_PACK_MARTYR,Divine Fervour,"As the Martyr, win a battle by sacrificing a life."
+ACH_STOP_IMMOBILISE,I Go Where I Please!,Prevent someone from immobilising you.
+ACH_CITY_JACKPOT,Jackpot!,Win the Lottery.
+ACH_HLAND_DRAGONS_EYE,Dragon Tamer,Use the Dragon's Eye to capture and use a Dragon in battle.
+ACH_SHALL_NOT_CAST,YOU SHALL NOT CAAST!!,Prevent the same person from casting spells 3 times in one game.
+ACH_BMOON_MEET_MY_MASTER,Meet My Master,Force another character to roll on the Werewolf's chart by beating them in combat.
+ACH_BIG_SPENDER,Big Spender,Earn the Big Spender reward 10 times.
+ACH_THE_EXORCIST,The Exorcist,Use the Cross to kill a Demon.
+ACH_BATTLE_MASTER,Battle Master,Earn the Battle Master reward 20 times.
+ACH_FIFTY_ONLINE_GAMES,Online Adventurer,Finish 5 online games.
+ACH_STRONGEST,Strongest,Earn the Strongest reward 20 times.
+ACH_FLANDS_NOBLE_IFRIT,Boss Noble,Defeat one of the Noble Ifrits.
+ACH_FM_GIVE_GOLD,This is For You,Give another character some of your Gold.
+ACH_FM_ICE_QUEEN,Stay Frosty,Win a game by defeating the Ice Queen.
+ACH_REAP_LORD_OF_THE_PIT,A Perilous Journey,Move to the Plain of Peril after defeating the Lord of the Pit.
+ACH_SPIRITS_DESTROYER,Spirit Destroyer,Earn the Spirit Destroyer reward 20 times.
+ACH_MOST_INTELLIGENT,Most Intelligent,Earn the Most Intelligent reward 20 times.
+ACH_REAP_CULTIST,A Tale of Good and Evil (where Evil wins for a change),"As the Dark Cultist, take a life from a character of Good Alignment."
+ACH_PACK_NINJA,Hidden Fortress,"As the Ninja, defeat an Enemy on the City space."
+ACH_FATE_WEAVER,Fate Weaver,Earn the Fate Weaver reward 5 times.
+ACH_FM_WARLOCK,What Else do You Have Back There?,"As the Warlock, take a card from the Purchase deck as a quest reward."
+ACH_PACK_COURTESAN,Irresistible,"As the Courtesan, seduce another character."
+ACH_STOP_DIVINATION,These Are Not the Cards You Are Looking For...,Prevent someone from casting Divination.
+ACH_FLANDS_PLACE_IN_FLAMES,Accidental Arsonist,Cause the City or Temple to go up in flames.
+ACH_HLAND_ALCHEMIST,"Waste Not, Want Not","As the Alchemist, alchemise 20 pieces of Gold."
+ACH_DUNG_GLADIATOR,Contenders Ready!,"As the Gladiator, use 3 trained Followers in a single battle."
+ACH_FLANDS_BURN_OTHER_PLAYERS_CARD,Twisted Firestarter,Use a card effect to burn another player's Card.
+ACH_CITY_DAMAGED_GOODS,Damaged Goods,Repair a broken sword or armour at the Armoury.
+ACH_HLAND_VALKYRIE,Keeping One's Intentions in the Dark,"As the Valkyrie, pray at the Graveyard with Good Alignment."
+ACH_HARB_BEAST,Feed the Beast,Placate the Scavenging Beasts by relinquishing a trophy to them.
+ACH_FM_NECROMANCER,Enthralling,"As the Necromancer, use an enthralled Spirit in psychic combat."
+ACH_WLAND_MEETING_WITH_DESTINY,Destiny awaits,Gain a Destiny Card whilst at the Meeting with Destiny space.
+ACH_DRAGON_SLEEPING_DRAGON_TROPHY,Tread Softly and Carry a Sword,Take a sleeping dragon as a trophy.
+ACH_PACK_APPRENTICE_MAGE,The Student Becomes the Master,"As the Apprentice Mage, raise your total Craft to 7 or more."
+ACH_GHOSTBUSTER,Spirit Slayer,"As the Priest, destroy a Ghost."
+ACH_DEEP_SPLAT_RAT,Splat a Rat,Defeat an enemy with Rat in its name in the Rat Queen’s Lair.
+ACH_CITY_KITTED_OUT,Kitted Out,Have the Flail and Full Plate.
+ACH_REAP_REAPER,Don't Fear the Reaper,Kill 5 characters with the assistance of the Reaper.
+ACH_REVENGE,Revenge!,Earn the Revenge! reward 10 times.
+ACH_BMOON_WOLF_AMONG_US,Wolf Among Us,Encounter Growing Suspicions with a lycanthrope in the game.
+ACH_DUNG_PHILOSOPHER,Existentialism,"As the Philosopher, replace 5 cards from the board."
+ACH_LEVEL_TWENTY,Taking the Reins,Reach level 20.
+ACH_FM_QUEST_ENDING,I Have Done as You Asked,Win a game with the Warlock Quests ending.
+ACH_SPELL_MASTER,Spell Master,Earn the Spell Master reward 10 times.
+ACH_PACK_SHAPE_SHIFTER,The Imposter,"As the Shape Shifter, take the shape of another character."
+ACH_DUNG_GYPSY,Foresight Beats Hindsight,"As the Gypsy, use your power of foretelling to avoid 10 Events."
+ACH_WLAND_SURVIVE_TRANSFORMED,Out of Body Experience,Survive the effect of the Transformed and return to your original character.
+ACH_DRAGON_MARTIAL_ARTIST_TRADE,Dancing Dragon,Give your scales to the Martial Artist in exchange for some training.
+ACH_CITY_ELEMENTALIST,Controlling the Elements,"As the Elementalist, automatically defeat an enemy Elemental."
+ACH_PACK_GAMBLER,Borrowed Luck,"As the Gambler, tempt fate with another character and win."
+ACH_REAP_MERCHANT,Gift of the Silver Tongue,"As the Merchant, swap an Object for a Magic Object."
+ACH_HARB_STONES_OF_TIME,Is it future or is it past?,Use the stones of time to change the Omen.
+ACH_SPOOL_YOU_SHOULDNT_HAVE,"Aww, You Shouldn't Have...",Receive 5 or more gold from Generosity.
+ACH_CITY_HIRED_HITMAN,Hired Hitman,Pay the Assassin to take all of a character’s lives.
+ACH_QUICK_WIN,No Contest,Win the game within the first 10 rounds.
+ACH_PACK_EXORCIST,Exorcising Caution,"As the Exorcist, destroy an unusable Object in order to gain a Spell."
+ACH_FM_LEPRECHAUN,Breaking the Bank,"As the Leprechaun, stockpile more than 30 Gold."
+ACH_POLTERGEIST_EXORCIST,Poltergeist Exorcist,Earn the Poltergeist Exorcist reward 10 times.
+ACH_DEEP_SPIRIT_BEGONE,Spirit Begone!,Defeat a Spirit enemy in the Wraith Lord’s Domain.
+ACH_PACK_DEVILS_MINION,Rightful Heir,"As the Devil's Minion, acquire the Runesword."
+ACH_HLAND_HAND_OF_DOOM,The Cursed Hand of Doom,Cause all players to lose the game.
+ACH_TRAVERSE_VOID,Traversing the Void,Teleport 3 times in 1 turn.
+ACH_FLANDS_DERVISH,Whirling Dervish,"As the Dervish, move 5 or more spaces after defeating an enemy."
+ACH_BMOON_GRAVE_ROBBER,One Man's Trash...,"As the Grave Robber, draw an object from the top of the discard pile."
+ACH_HLAND_VAMPIRESS,Savings Snatcher,"As the Rogue, take all the Gold from a character that currently has 5 or more."
+ACH_HLAND_ROGUE,Sharing is Caring,"As the Vampiress, relinquish one or more of your followers to the Vampire at the Vampires Tower."
+ACH_HAG_DELIVERER,Hag Deliverer,Earn the Hag Deliverer reward 10 times.
+ACH_DRAGON_TWO_HEADED_DRAGON,Still Only Counts as One,Defeat the Two Headed Dragon.
+ACH_SPOOL_CHIVALRIC_KNIGHT,The Bigger Man,"As the Chivalric Knight, assist a character with more strength than you in a battle."
+ACH_REAP_KNIGHT,A Knight's Tale,"As the Knight, slay the Miser Dragon."
+ACH_DRAGON_DEADLY_RIVALS,Sibling Rivalry,Make two Dragons from the same Dragon deck fight to the death.
+ACH_FLANDS_NO_DAMAGE_FIRE_TOKEN,Ifrit Born,Take no damage when ending your turn on a space with Fireland tokens.
+ACH_BMOON_DOOMSAYER,Not All Doom and Gloom,"As the Doomsayer, in one turn, replenish one fate and gain one spell as a result of any player drawing cards."
+ACH_PACK_BLACK_WITCH,Spell Resistant,"As the Black Witch, successfully resist 3 Spells in a single game."
+ACH_FM_OGRE_CHIEFTAIN,Like a Boss,"As the Ogre Chieftain, send a dominated Ogre into battle."
+ACH_REAP_SAGE,Into the Unknown,"As the Sage, win the game without ever consulting the decks."
+ACH_TOUCH_OF_DEATH,Touch of Death,Take the last life of every player in a 6 player game (in combat).
+ACH_DEEP_SPHINX,King of Thebes,Solve the Sphinx of Khayu’s riddle.
+ACH_DEEP_THRONE_ROOM,Spectral Stash,Take a Treasure card from the Throne Room after defeating the Wraith Lord.
+ACH_HARB_RISE_OF_THE_DEAD,Gentle Graves,Win the game before the Dead Rise.
+ACH_CITY_MASTER_THIEF,Master Thief,Win the game with the Thieves' Guild ending.
+ACH_FM_HYDRA,"Come One, Come All",Use the Hydra Spell to cause a Spell to affect all 6 characters.
+ACH_HARB_ARMAGEDDON_OMEN,Reckoning Reconvened,Win the game before the Armageddon.
+ACH_HARB_STARS_ALIGN,Misinformed Mystics,Win the game before the Stars Align.
+ACH_DRAGON_CONJURER,Conjurfield,"As the Conjurer, move a place using your ability."
+ACH_CITY_CAT_BURGLAR,The Heist,"As the Cat Burglar, Burgle the most expensive item from a shop."
+ACH_PACK_PIRATE,Pedlar Peddler,"As the Pirate, sell the Pedlar on the black market."
+ACH_HARB_SHATTERED_WORLD,Planetary Annihilation Averted,Win the game before the World Shatters.
+ACH_PACK_MARTIAL_ARTIST,Master of the Fist,"As the Martial Artist, hit someone with a crippling blow when unarmed."
+ACH_FLANDS_REMOVE_TOKEN_AND_TERRAIN,Restore the World,Use Restore the World to remove a Terrain card and a Fireland token from a space.
+ACH_FLANDS_OLD_MAN_OF_THE_SEA,Old Drunk of the Sea,Part ways with the Old Man of the Sea at the Tavern.
+ACH_NETHER_PANDORAS_BOX_WIN,What's in the Box?,Eliminate all other characters with Pandora's Box and win the game.
+ACH_SPOOL_DEMON_LORD,Demon Vanquisher,Kill the Demon Lord.
+ACH_HLAND_SPRITE,Kindred Spirits,"As the Sprite, have the Pixie and encounter a Fairy."
+ACH_HLAND_HIGHLANDER,There Can be Only One,"As the Highlander, kill another Highlander character."
+ACH_DUNG_HAG_KEEPER,Keeper of the Hag,Trick the Dungeon Keeper into taking your Hag.
+ACH_DRAGON_LUCK_DRAGON,Into the Nothing,Consume the Luck Dragon.
+ACH_DRAGON_CONFRONT_DRAGON_KING,A Heated Exchange,Defeat the Dragon King in combat.
+ACH_FLANDS_WARLORD,Imperial Insurgent,"As the Warlord, conscript another character's follower."
+ACH_BMOON_LYCANTHROPISH,Lycanthropish,Remove your lycanthropy status using Wolfsbane.
+ACH_NETHER_POLYMORPH,What Was That Thing?,Defeat a Polymorph or Changeling.
+ACH_CITY_TORTOISE_AND_HARE,Tortoise and Hare,Have Terrance and Hopper.
+ACH_CITY_ITS_A_LIVING,It's a Living,Claim 15 gold in bounties in a single game.
+ACH_PACK_GENIE,No Genie Left Behind,"As the Genie, rescue the Genie (Follower) from another character after defeating them."
+ACH_WLAND_TOAD_KING,In the Court of the Toadstool King,Encounter the Toad King whilst you are a Toad.
+ACH_HARB_ASCENDANT_DIVINE,Running on Empty,"As the Ascendant Divine, exhaust all of your Divine Gifts."
+ACH_DRAGON_CHALLENGE_CROWN_FINISH,Whose Idea Was This Anyway!,Finish the game with the Challenge for the Crown alternate ending.
+ACH_FLANDS_JIN_BLOODED,Rebound,"As the Jin Blooded, bind a Spell and use it against the original caster."
+ACH_BMOON_LIGHTBEARERS,Light Bearers,Win the game with the Lightbearers ending.
+ACH_SPOOL_MAGUS,The Unsullied,"As the Magus, use 3 indoctrinated followers in a single psychic combat."
+ACH_CITY_FILTHY_RICH,Filthy Rich,Win the game with the Merchants' Guild ending.
+ACH_CITY_MASTER_ASSASSIN,Master Assassin,Win the game with the Assassins' Guild ending.
+ACH_CATA_MUTANT,Creature of Theseus,"As the Mutant, successfully mutate 3 turns in a row."
+ACH_CATA_BARBARIAN,Might over Magic,"As the Barbarian, successfully protect yourself from psychic combat."
+ACH_WLAND_RIDDLE_STONE,Baffling Basalt,Gain 3 or more Spells from the Riddle Stone.
+ACH_DEEP_KILL_BOSSES,Royalty in Ruins,Defeat the Rat Queen and Wraith Lord in the same game.
+ACH_HARB_SKELETON_KING,You and whose army?,Defeat the Skeleton King with 3 or more trophies.
+ACH_PACK_JESTER,Confusion-Fu,"As the Jester, successfully confuse a creature with Strength or Craft 7 or more."
+ACH_FLANDS_HERO_RISES,Predestined,Win the game with A Hero Rises ending.
+ACH_FLANDS_CROWN_OF_FLAME,Hot Potato,Pass on the Crown of Flame to another character.
+ACH_BMOON_HORRIBLE_BLACK_VOID,Into the Void,Meet with a terrible fate.
+ACH_NETHER_HUNT,The Nether Hunter,Win the game with The Hunt ending.
+ACH_NETHER_GAUNTLET,Braving the Gauntlet,Successfully navigate the Gauntlet.
+ACH_SPOOL_SACRED_POOL_ENDING,A Dip in the Pool,Win the game with the Sacred Pool ending.
+ACH_SPOOL_JUDGED_WORTHY,Judged Worthy,Encounter Judgement Day and win the game through being judged worthy.
+ACH_SPOOL_SHARED_GLORY,Shared Glory,"With the Judgement Day ending, have two or more players win the game."
+ACH_CITY_TINKERER,I Know What Makes Him Tick,"As the Tinkerer, defeat a Construct and take it as a trophy."
+ACH_CITY_TAVERN_MAID,This Round’s on Me,"As the Tavern Maid, pour a drink to more than one character on the same space."
+ACH_WLAND_ANCIENT_OAK,Max Gains,"As the Ancient Oak, have 5 Growth tokens on your character card."
+ACH_DRAGON_CHALLENGE_CROWN_FIRST,In Another Tower,"When playing with the Challenge for the Crown ending, be the first to step foot in the Dragon Tower after reaching the Crown of Command."
+ACH_DRAGON_DRAGON_KING,Kingslayer,"When playing with the Dragon King ending, remove the last life off the Dragon King."
+ACH_FLANDS_SPREADING_FLAME,Firewalker,Win the game with the Spreading Flames ending.
+ACH_BMOON_SILVER_BULLET,Silver Bullet,Win the game by defeating the Blood Moon Werewolf.
+ACH_BMOON_CHARITY,Charity,Give all your gold to one of your allies.
+ACH_CATA_ETERNAL_CROWN,Unlimited Power,"Using the Eternal Crown ending, win the game whilst stood on the the Crown of Command."
+ACH_WLAND_WAR_OF_SEASONS,Sprint Finish,Win the game with the War of Seasons ending in play by being the first to defeat Oberon or Titania.
+ACH_DRAGON_DRAGON_SLAYERS,Gone Slaying,"When playing with the Dragon Slayers ending, take 5 or more scales from Draconic Lords."
+ACH_DRAGON_FIRE_WIZARD,Mine is Bigger,"As the Fire Wizard, destroy a Dragon that has a breath attack with your fireblast."
+ACH_PACK_SARACEN,New Recruit,"As the Saracen, recruit a follower."
+ACH_PACK_SHAMAN,Transformer,"As the Shaman, take all 3 animal forms in a single game."
+ACH_PACK_ILLUSIONIST,Wish Stealer,"As the Illusionist, get a wish from a stranger by successfully obscuring your alignment."
+ACH_BMOON_THE_PACK,The Pack,Win the game as a lycanthrope with the Blood Moon Werewolf ending.
+ACH_BMOON_VAMPIRE_HUNTER,Mr Pointy,"As the Vampire Hunter, find the Wooden Stake."
+ACH_NETHER_PANDORAS_BOX_SURVIVE,Elpis,Survive the contents of Pandora's Box and win the game.
+ACH_SPOOL_HOLY_PROFANE_RELICS,Chaotic Neutral,Have both the Profane and Holy Relics
+ACH_SPOOL_WRATHBORN_WAND_CULTIST,Fighting Wrath with Wrath,Use a Wrathborn Wand to defeat a Wrathborn Cultist.
+ACH_SPOOL_CLERIC,Don't You Die on Me!,"As the Cleric, save a follower from death."
+ACH_CITY_SPY,From the Shadows,"As the Spy, shadow a character in order to encounter another."
+ACH_CITY_BOUNTY_HUNTER,High Profile Prisoner,"As the Bounty Hunter, gain 6 gold from a character bounty."
+ACH_CATA_LANDS_OF_WONDER,Wonderful Wares,"Using the Lands of Wonder ending, make two successful rolls in one turn."
+ACH_WLAND_LEYWALKER,Playing with Portals,"As the Leywalker, travel by Portal tokens on 3 consecutive turns."
+ACH_DEEP_TRAP_DISARM,Never Too Prepared,Have both the Trapsmith and the Skeleton Key in your inventory.
+ACH_DEEP_JINX_TURNCOAT,Duplicitous Defector,Lose the Jinx to the Turncoat card.
+ACH_HARB_POSSESSED,Life Consuming,"As the Possessed, amass 10 lives."
+ACH_HARB_CELESTIAL,Divine Will,"As the Celestial, defeat an evil character in psychic combat and remove their fate."
+ACH_DRAGON_DRAGON_RIDER,Silver Hand,"As the Dragon Rider with a captured Dragon, take the Dragon Eggs to the Warlock's Cave and trade them for a Talisman."
+ACH_DRAGON_DRAGON_PRIESTESS,Cult Leader,"As the Dragon Priestess, have a cultist from each Dragon deck as followers at the same time."
+ACH_DRAGON_MINOTAUR,Home Sweet Home,"As the Minotaur, successfully navigate the Maze."
+ACH_PACK_WITCH_DOCTOR,Friends on the Other Side,"As the Witch Doctor, successfully curse another Witch Doctor."
+ACH_PACK_GOBLIN_SHAMAN,Goodnight Mr Goblin,"As the Goblin Shaman, use a spellbound Goblin to prevent the loss of a life."
+ACH_FLANDS_NOMAD,The World Is My Backyard,"As the Nomad, encounter the same space as last turn after a Terrain card has been placed on it."
+ACH_BMOON_STAKE_VAMPIRE,Laid to Rest,Use the Wooden Stake against the Vampire Prince.
+ACH_BMOON_LIGHTBEARERS_WEREWOLF,Daywalker,Win the game as a lycanthrope with the Lightbearers ending.
+ACH_SPOOL_VINDICATION_MISFORTUNE,Vicious Plays,Use Misfortune on a player rolling for Vindication.
+ACH_SPOOL_SHOW_OFF,Show Off,Win the game with the Sacred Pool ending with 8 Quest Rewards.
+ACH_SPOOL_DREAD_KNIGHT,Dark Betrayal,"As the Dread Knight, defeat the Fel Steed."
+ACH_CITY_POTENT_POTABLES,Potent Potables,Drink five potions in the same turn.
+ACH_BEAST_HUNTERS,Conquest through Cooperation,Share victory with your companions when using the Awakening ending.
+ACH_BEAST_BEAST_HUNT,Master of the Hunt,Win the game using The Greatest Hunter ending
+ACH_BEAST_TROPHY_HUNTER,True Grit,"As the Trophy Hunter, take down one of the Ancient Beasts."
+ACH_BEAST_SPECIALIST,Type Advantage,"As the Specialist, complete all of your Catalogue tokens."
+ACH_CATA_SCAVENGER,Rescued Rusty Blade,"As the Scavenger, use your scavenging ability to take the Cataclysm Blade."
+ACH_CATA_BLACK_KNIGHT,Blighted Blade of the Old World,"As the Black Knight, encounter the Black Knight at the Castle and force another character to lose a life."
+ACH_CATA_ARCANE_SCION,Spell Siphoner,"As the Arcane Scion, gain 5 Spells as a result of other characters gaining Craft in one game."
+ACH_CATA_CULT_OF_DAMNED,Corralling the Cultists,"Using the Cult of the Damned ending, successfully defeat the Denizen horde."
+ACH_CATA_ONE_TALISMAN,Pass the Parcel,"Using the One Talisman ending, have the One Talisman change hands over 10 times in one game."
+ACH_WLAND_TOTEM_WARRIOR,Totem Mastery,"As the Totem Warrior, take a Totem Spirit token from a Totem Bear."
+ACH_WLAND_SPIDER_QUEEN,Creepy Crawlies,As the Spider Queen have all of your Spider tokens Crawler side up.
+ACH_WLAND_SCOUT,Plan of Escape,"As the Scout, have all your Hidden Path tokens on Place cards."
+ACH_WLAND_WANDERLUST,Sightseer,"Visit every region and win the game with the Wanderlust ending in play having collected at least one Destiny, Relic and Treasure Card."
+ACH_WLAND_JUDGED_BY_FATE,Win by attrition,"With the Judged by Fate ending in play, be the last character still alive with no fate remaining."
+ACH_PACK_WOODSMAN,Fairy Tale Hero,"As the Woodsman, defeat a Wolf in the Woods."
+ACH_PACK_SAMURAI,Ninja Terminator,"As the Samurai, defeat a Ninja in combat and take their Golden Statue."
+ACH_HARB_ARMAGEDDON_CROWN,I win twice ... right?,"When playing with the Armageddon Crown, finish the game on the Crown of Command whilst holding the Apocrypha."
+ACH_HARB_END_OF_DAYS,Clean Sweep,"With the End of Days ending in play, win the game without any Heralds or Horsemen on the board."
+ACH_DRAGON_SLEEP_SLUMBERING_DRAGON,Go Back to Sleep,Use the Dream Singer to place a Sleep Token on the Slumbering Dragon.
+ACH_DRAGON_TWO_HEADS_TWO_WEAPONS,Double Dragon Duel,Defeat two Dragons with two Holy Lances at the same time.
+ACH_DRAGON_DOMAIN_OF_DRAGONS,The Lofty Languishing Lord,"When playing with the Domain of Dragons ending, defeat the Exalted Dragon on the Dragon Tower."
+ACH_DRAGON_DRAGON_HUNTER,Bountiful Hunt,"As the Dragon Hunter, trade in a trophy from each Dragon deck at the same time."
+ACH_SPOOL_FREE_RIDE,Free Ride,Use the Spiteful Imp to teleport to the Crown of Command.
+ACH_CLOCK_DOG_BONE,Sic and Destroy,Have the Clockwork Dog aid you in battle.
+ACH_CLOCK_ENGINEER,Regular Maintenance,"As the Engineer, use your skills to enhance 5 Inventions in a single game."
+ACH_CLOCK_CONMAN,Con Heir,"As the Swindler, use your cunning to swindle the Thief."
+ACH_CLOCK_ARTIFICER,Curse Converters,"As the Artificer, absorb the powers of a Cursed Object."
+ACH_CLOCK_ERA_OF_INVENTION,Clockwork Capitalist,Defeat your competition whilst using the Era of Invention ending.
+ACH_CLOCK_RUNIC_REVOLUTION,Demolition Expert,Win the game by defeating the most Constructs whilst using the Runic Revolution ending.
+ACH_PACK_PATHFINDER,Travelling Companions,"As the Pathfinder, locate the barbarian and the ranger in one game."
+ACH_BEAST_GLAIVE,Way of the Dragon,Win the game by collecting soul fragments with the Glaive of Kallind.
+ACH_SPIRIT_THE_WHITE_CROWN,Remembrance,Deliver the Fallen Talisman to the King of the Dead during the White Crown ending.
+ACH_SPIRIT_NIGHT_OF_THE_DANCING_SKULLS,Cull the Competition,In the Night of the Dancing Skulls ending kill another player as a result of combat as a Ghost.
+ACH_SPIRIT_SPECTRE_COLLECTOR,Spectre Collector Spectre,"As the Spectre Collector, collect the Spectre."
+ACH_SPIRIT_ARCHON,Archonic,"As the Archon, kill 3 characters at once using your overload ability."
+ACH_SPIRIT_CLAIRVOYANT,Competitive Claire,"As the Clairvoyant, move the Medium to the bottom of the deck."
